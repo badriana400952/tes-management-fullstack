@@ -4,6 +4,13 @@ Aplikasi manajemen tugas (Task Management) siap produksi yang dibangun menggunak
 
 ---
 
+## Postman Collection
+
+Dokumentasi dan pengujian API dapat diakses melalui link Postman Collection berikut:
+- Link Postman: https://web.postman.co/workspace/My-Workspace~1d9c932c-0400-42a0-848b-f8cd4ed24943/collection/25622001-a5490514-f8c8-4b5a-a058-5cf60ed19a1f?action=share&source=copy-link&creator=25622001
+
+---
+
 ## Cara Menjalankan Project
 
 ### 1. Clone Repository
